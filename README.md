@@ -1,9 +1,9 @@
 # OCEANS Stellar ML
 
 <p align="center">
-  <img src="docs/images/oceans_logo.png" alt="OCEANS Logo" height="80"/>
+  <img src="docs/images/oceans_logo_color.png" alt="OCEANS Logo" height="80"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="docs/images/eu_logo.png" alt="EU Logo" height="80"/>
+  <img src="docs/images/EN_FundedbytheEU_RGB_POS.png" alt="EU Logo" height="80"/>
 </p>
 
 <p align="center">
