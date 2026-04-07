@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Machine learning approaches for stellar data analysis within the OCEANS (HORIZON Europe) project</em>
+  <em>Machine learning methods for stellar data analysis within the OCEANS (HORIZON Europe) project</em>
 </p>
 
 ---
