@@ -14,7 +14,7 @@
 
 ## About the Project
 
-**OCEANS** — *Overcoming Challenges in the Evolution And Nature of Massive Stars*  
+**OCEANS** — [*Overcoming Challenges in the Evolution And Nature of Massive Stars*](https://stel.asu.cas.cz/OCEANS/)
 
 This repository contains machine learning methods and tools, focusing on:
 
@@ -23,3 +23,38 @@ This repository contains machine learning methods and tools, focusing on:
 - Tools for astrostatistics and scientific discovery  
 
 ---
+
+## Key Contributions
+
+- Stellar data analysis pipelines  
+- Machine learning models (neural networks, probabilistic models)  
+- Advanced analysis methods (e.g., entropy, uncertainty estimation)  
+- Reproducible experimental workflows  
+
+---
+
+## Example Results
+
+### Stellar Spectra
+<p align="center">
+  <img src="docs/images/spectra_example.png" width="600"/>
+</p>
+
+### Model Predictions
+<p align="center">
+  <img src="docs/images/predictions.png" width="600"/>
+</p>
+
+---
+
+##  Repository Structure
+
+```bash
+oceans-stellar-ml/
+│
+├── data/              # Datasets (or links)
+├── notebooks/         # Jupyter notebooks
+├── models/            # ML models
+├── src/               # Core code
+├── results/           # Outputs and figures
+└── docs/images/       # Images for README
